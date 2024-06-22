@@ -1,0 +1,78 @@
+[
+    {
+        "id": "1",
+        "name": "Web & App Development Services",
+        "description": "Let FDS's Social Media Management & Web Development experts drive your social media efforts to help increase engagement, maximize brand awareness and gain revenue. They can turn your business vision into a cohesive social persona for your brand. To know about the discounted rates, click on \"Get Quotation\" ",
+        "services": [
+            {
+                "sname": "Website Development",
+                "sdesc": "Pages - 10 Dynamic Website Domain - 1st Year Free Hosting - 1st Year Free Free SSL 300 Rs - Content/Page 300 Rs/ Extra Page Chat Feature Mobile Responsive Contact Form - 1 Login Details Will Be Given Client Support"
+            },
+            {
+                "sname": "Application Development",
+                "sdesc": "Single Vendor E-Commerce Application (Product/Service) Multi-Vendor E-Commerce Application (Product/Service) Edtech Solution Astrology Solution Single Vendor Food Delivery Application Pharmacy Application (like Netmeds)"
+            },
+            {
+                "sname": "UI/UX Designing",
+                "sdesc": "User flow UI Designing Wireframes Prototyping Basic UI Visual Guide"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Legal & Compliance Services",
+        "description": "To enable Indian entrepreneurs stay on top of the business game, The StartupLab offers a one-stop solution for auditing, taxation, administrative compliance services, reports, legal assistance, project advisory, and other professional services. For consistent growth, a solid foundation is required by every organization. ",
+        "services": [
+            {
+                "sname": "Company Incorporation",
+                "sdesc": "Pages - 10 Dynamic Website Domain - 1st Year Free Hosting - 1st Year Free Free SSL 300 Rs - Content/Page 300 Rs/ Extra Page Chat Feature Mobile Responsive Contact Form - 1 Login Details Will Be Given Client Support"
+            },
+            {
+                "sname": "GST Registration",
+                "sdesc": "Single Vendor E-Commerce Application (Product/Service) Multi-Vendor E-Commerce Application (Product/Service) Edtech Solution Astrology Solution Single Vendor Food Delivery Application Pharmacy Application (like Netmeds)"
+            },
+            {
+                "sname": "FSSAI Registration",
+                "sdesc": "User flow UI Designing Wireframes Prototyping Basic UI Visual Guide"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Video & Social Media Management Services",
+        "description": "Stand out with a wide array of 2D and 3D Video Animation services. Create eye- catching and engaging videos for your business which help you strengthen your communication strategies with your audience and reach out to them in the most creative and captivating ways! To know about the discounted rates, click on \"Get Quotation\"",
+        "services": [
+            {
+                "sname": "Video Services",
+                "sdesc": "2D/3D/Animations/Graphics Scripting Voice Over Directions, Stortline, Models."
+            },
+            {
+                "sname": "Digital Marketing",
+                "sdesc": "Ads Spend - 15,000 Management Fee - 10,000 Platform - FB, Insta Campaign Cation - 3 Pixel Installation Remarketing Custom Conversion Custom Audience Creation Traffic Monitoring Monthly Report Client Support"
+            },
+            {
+                "sname": "Social Media Management",
+                "sdesc": "Account Management - 2 Hashtag Research Content Strategy Posting per week - 5 Story Creation Responding to comments Competitors Analysis Profile Optimization Image Tagging Medium Engagement Graphic Revision - 2 Client Support."
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Event Management Services",
+        "description": "Stand out with a wide array of 2D and 3D Video Animation services. Create eye- catching and engaging videos for your business which help you strengthen your communication strategies with your audience and reach out to them in the most creative and captivating ways! To know about the discounted rates, click on \"Get Quotation\"",
+        "services": [
+            {
+                "sname": "Online Webinars",
+                "sdesc": "2D/3D/Animations/Graphics Scripting Voice Over Directions, Stortline, Models."
+            },
+            {
+                "sname": "Offline Seminars",
+                "sdesc": "Ads Spend - 15,000 Management Fee - 10,000 Platform - FB, Insta Campaign Cation - 3 Pixel Installation Remarketing Custom Conversion Custom Audience Creation Traffic Monitoring Monthly Report Client Support"
+            },
+            {
+                "sname": "Promotional Event Hosting",
+                "sdesc": "Account Management - 2 Hashtag Research Content Strategy Posting per week - 5 Story Creation Responding to comments Competitors Analysis Profile Optimization Image Tagging Medium Engagement Graphic Revision - 2 Client Support."
+            }
+        ]
+    }
+]
