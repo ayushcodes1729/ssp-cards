@@ -4,13 +4,13 @@ import Meteors from './ui/meteors'
 export default function Service({ eachserve }) {
     return (
         <div className='text-white flex flex-col justify-center items-center relative'>
-            <h2 className='text-white text-3xl p-4 font-sans font-bold'>{eachserve.name}</h2>
-            <p className=' px-12 py-5 mx-10 w-[80dvw]'>{eachserve.description}</p>
+            <h2 className='text-white text-2xl md:text-3xl md:p-4 font-sans font-bold'>{eachserve.name}</h2>
+            <p className=' md:px-12 md:py-5 mx-10 w-[80dvw] text-lg md:text-2xl'>{eachserve.description}</p>
             {/* <div className="servicecards">
                 <Meteors />
             </div> */}
 
-            <div className="flex ">
+            <div className="grid grid-cols-1 grid-rows-3 md:flex md:flex-wrap md:justify-center">
                 {
                     eachserve.services.map((sv, idx) => [
                         <div key={idx} className=" w-full relative max-w-xs m-5 flex flex-col">
